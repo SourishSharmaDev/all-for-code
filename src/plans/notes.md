@@ -23,3 +23,4 @@ I want to have a person with front-end skills, css + designing skills, back-end 
 I want to have this to grow up into a stable project with decent amount of savings
 
 **COLORS I WANNA GO WITH:-** blue, black (With lighter shades)[https://colorhunt.co/palette/32364360647093defff7f7f7] (with darker shades)[https://colorhunt.co/palette/261c2c3e2c415c527f6e85b2]
+
